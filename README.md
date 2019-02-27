@@ -2,3 +2,4 @@
 * https://github.com/donnemartin/system-design-primer
 * https://www.hiredintech.com/
 * http://highscalability.com/
+* https://www.educative.io/collection/5668639101419520/5649050225344512
