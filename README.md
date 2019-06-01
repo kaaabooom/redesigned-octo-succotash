@@ -7,3 +7,8 @@
 
 # WhatsApp
 * [The WhatsApp Architecture Facebook Bought For $19 Billion](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
+
+
+# MicroService
+* [Netflix](https://www.youtube.com/watch?v=57UK46qfBLY)
+* [Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
